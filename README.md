@@ -1,13 +1,9 @@
 # sentiment-analysis
 # Features
-
-Analyze English text sentiment
-
-Classify text as Positive or Negative
-
-Display the model's prediction and confidence score
-
-Simple interactive interface with Streamlit
+- Analyze English text sentiment
+- Classify text as Positive or Negative
+- Display the model's prediction and confidence score
+- Simple interactive interface with Streamlit
 
 # Tech Stack
 Python, Streamlit, Hugging Face Transformers, Pre-trained Sentiment Analysis Model
